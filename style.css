@@ -1,0 +1,37 @@
+* {
+    text-align: center;
+}
+
+input {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+input:focus {
+    border: 2px solid #555;
+}
+
+h3 {
+    font-family: 'Verdana', Sans-serif, serif;
+}
+
+label {
+    font-family: 'Verdana', Sans-serif, serif;
+}
+
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
